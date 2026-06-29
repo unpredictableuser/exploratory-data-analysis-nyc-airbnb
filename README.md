@@ -29,7 +29,7 @@ This project is a high-level Exploratory Data Analysis (EDA) investigating the 2
 ---
 
 ## 🚀 How to Run this Project
-1. **Clone the repository:** `git clone https://github.com/kashif323/NYC-Airbnb-Data-Analysis.git`
+1. **Clone the repository:** `git clone https://github.com/unpredictableuser/NYC-Airbnb-Data-Analysis.git`
 2. **Install dependencies:** `pip install pandas numpy matplotlib seaborn`
 3. **Launch the analysis:** Open `AirBnb.ipynb` in Jupyter Notebook or VS Code to see the step-by-step cleaning and visualization process.
 
@@ -40,5 +40,5 @@ This project is a high-level Exploratory Data Analysis (EDA) investigating the 2
 ---
 
 ## 👋 Let's Connect!
-* **LinkedIn:** [Mohammad Kashif Umar](https://linkedin.com/in/mohammad-kashif-umar)
-* **Portfolio:** [Check out my other projects](https://github.com/kashif323)
+* **LinkedIn:** [Mohammad Gazali Sultan](https://www.linkedin.com/in/mohd-gazali-980158289?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **Portfolio:** [Check out my other projects](https://github.com/unpredictableuser)
